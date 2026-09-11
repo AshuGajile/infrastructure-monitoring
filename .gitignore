@@ -1,0 +1,18 @@
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Runtime / generated data
+data/
+tmp/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/ 
