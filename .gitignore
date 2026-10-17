@@ -3,6 +3,7 @@
 .env
 *.pem
 *.key
+alertmanager/smtp_password
 
 # Logs
 *.log
